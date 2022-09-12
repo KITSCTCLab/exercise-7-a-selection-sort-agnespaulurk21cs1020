@@ -7,7 +7,7 @@ def selectionSort(array, size) -> List[int]:
         temp=array[i]
         array[i]=array[j]
         array[j]=temp
-  return array
+ return array
 
 # Do not change the following code
 input_data = input()
